@@ -57,7 +57,6 @@ def get_stories(id, type):
         for word in words:
             word = word.lower()
             for interest in interests:
-                print(interest)
                 if word in interest[1] or utils.stem(word) in interest[1]:
                     story['title'] = title
                     story['url'] = url
