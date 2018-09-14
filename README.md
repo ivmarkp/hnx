@@ -10,8 +10,8 @@ Fetches stories of interest for a particular HN user.
 
 #### Parameters
 
-* id: HN username of the user.
-* type: Story type i.e. `top`, `new`, `show` & `ask`.
+* `id`: HN username of the user.
+* `type`: Story type. Supported types are `top`, `new`, `show` & `ask`.
 
 #### Response
 
