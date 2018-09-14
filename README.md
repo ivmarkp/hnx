@@ -48,3 +48,7 @@ A JSON object with a key `stories` whose value is an array of retrieved stories.
   }
 ]
 ```
+
+### How are the recommendations generated?
+
+Check out the "How?" section in the README of [Hnfy](https://github.com/ivmarkp/hnfy).
