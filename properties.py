@@ -1,0 +1,1 @@
+REF_TOPICS_URL = 'https://gist.githubusercontent.com/ivmarkp/c2da1deecfdb827d5f1de7ad90f4aff1/raw/39200b832ec093fb85fbd667e4cb58c256e6e040/stemmed_annotated_ref_topics_new'
