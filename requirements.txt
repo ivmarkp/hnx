@@ -7,7 +7,7 @@ chardet==3.0.4
 click==6.7
 docutils==0.14
 Flask==1.0.2
-Flask-Cors==3.0.6
+Flask-Cors==3.0.9
 flask-heroku==0.1.9
 Flask-SQLAlchemy==2.3.2
 gensim==3.5.0
